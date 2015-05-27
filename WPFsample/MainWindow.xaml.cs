@@ -9,7 +9,7 @@ namespace WPFsample
     {
         public MainWindow()
         {
-            Console.WriteLine("Hi Paul");
+            Console.WriteLine("Hi Thomas");
             Console.WriteLine("Hows it going?")
             InitializeComponent();
         }
