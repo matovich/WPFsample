@@ -9,6 +9,7 @@ namespace WPFsampleTest
         [TestMethod]
         public void TestMethod1()
         {
+            Assert.IsFalse(false);
         }
     }
 }

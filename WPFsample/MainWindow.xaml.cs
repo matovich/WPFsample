@@ -13,6 +13,8 @@ namespace WPFsample
             Console.WriteLine("Try not to Change my Line!");
 
             Console.WriteLine("Testing the working files");
+
+            Console.WriteLine("One more change");
             InitializeComponent();
         }
     }
