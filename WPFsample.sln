@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFsample", "WPFsample\WPFsample.csproj", "{E61D6900-BEA5-4993-B110-5B2B86CFE745}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFsampleCodedUITest", "WPFsampleCodedUITest\WPFsampleCodedUITest.csproj", "{11CA2EC3-D619-4456-B28F-35BAFF2A476E}"

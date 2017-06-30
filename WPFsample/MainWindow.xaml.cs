@@ -1,4 +1,5 @@
-﻿using System.Windows;
+﻿using System;
+using System.Windows;
 
 namespace WPFsample
 {
@@ -10,7 +11,8 @@ namespace WPFsample
         public MainWindow()
         {
             Console.WriteLine("Try not to Change my Line!");
-            Console.WriteLine("Hows it going?")
+
+            Console.WriteLine("Testing the working files");
             InitializeComponent();
         }
     }
