@@ -15,6 +15,9 @@ namespace WPFsample
             Console.WriteLine("Testing the working files");
 
             Console.WriteLine("One more change");
+
+            // changes on working_minor_change
+
             InitializeComponent();
         }
     }
