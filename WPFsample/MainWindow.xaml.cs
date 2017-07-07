@@ -10,6 +10,8 @@ namespace WPFsample
     {
         public MainWindow()
         {
+            // changes on the working branch
+
             Console.WriteLine("Try not to Change my Line!");
 
             Console.WriteLine("Testing the working files");
